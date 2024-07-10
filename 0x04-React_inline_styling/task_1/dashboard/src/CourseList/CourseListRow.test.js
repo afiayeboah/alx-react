@@ -1,3 +1,4 @@
+
 import React from "react";
 import CourseListRow from "./CourseListRow";
 import { shallow } from "enzyme";
